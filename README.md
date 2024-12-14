@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Hirad
-- 👀 I’m interested in programing and physics.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello there! 👋 Welcome to my GitHub profile!
 
-<!---
-Hirad-CPU/Hirad-CPU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Hirad,I'm a passionate programmer and problem solver with a love for software development, physics, and the art of invention. I also enjoy exploring the fascinating worlds of electronics and robotics, where creativity meets engineering.
+
+I specialize in C and Python, using these powerful languages to bring my ideas to life and tackle challenging problems.
+
+Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects. I'm always happy to connect with like-minded enthusiasts and learn something new along the way.
+
+Thanks for visiting, and I hope you find something interesting here! 😊
