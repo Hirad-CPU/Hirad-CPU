@@ -1,9 +1,7 @@
-Hello there! 👋 Welcome to my GitHub profile!
+Hello there! 👋 Welcome to Hirad's GitHub profile!
 
-I'm Hirad,I'm a passionate programmer and problem solver with a love for software development, physics, and the art of invention. I also enjoy exploring the fascinating worlds of electronics and robotics, where creativity meets engineering.
+I'm Hirad, a passionate programmer and curious explorer with a love for software development, physics, and the mysteries of the universe. Fascinated by space exploration, astronomy, and the endless possibilities of the cosmos, I’m always eager to discover something new and push the boundaries of knowledge.
 
-I specialize in C and Python, using these powerful languages to bring my ideas to life and tackle challenging problems.
+I also enjoy diving into the exciting worlds of electronics and robotics, combining creativity and engineering to bring innovative ideas to life. Skilled in C and Python, I use these powerful languages to turn my ideas into reality and solve complex problems.
 
-Feel free to explore my repositories, share your thoughts, or collaborate on exciting projects. I'm always happy to connect with like-minded enthusiasts and learn something new along the way.
-
-Thanks for visiting, and I hope you find something interesting here! 😊
+Feel free to explore my repositories, share your thoughts, or collaborate on projects that aim for the stars! 🌌
