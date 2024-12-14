@@ -1,4 +1,4 @@
-Hello there! 👋 Welcome to Hirad's GitHub profile!
+Hello there! 👋 Welcome to my GitHub profile!
 
 I'm Hirad, a passionate programmer and curious explorer with a love for software development, physics, and the mysteries of the universe. Fascinated by space exploration, astronomy, and the endless possibilities of the cosmos, I’m always eager to discover something new and push the boundaries of knowledge.
 
